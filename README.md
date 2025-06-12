@@ -57,11 +57,11 @@ policies.
 
 
 ## Submits Vacation Request
-[Flowchart](Docs/Submits Vacation Request/Flowchart.png)  
-[Sequence Diagram](Docs/Submits Vacation Request/Sequence.png)
+[Flowchart](Docs/Submits%20Vacation%20Request/Flowchart.png)  
+[Sequence Diagram](Docs/Submits%20Vacation%20Request/Sequence.png)
 
 ## Edit or withdraw Pending Request
-[Flowchart](Docs/Edit or withdraw Pending Request/Flowchart.png)
+[Flowchart](Docs/Edit%20or%20withdraw%20Pending%20Request/Flowchart.png)
 
 ## Cancel Approved Request
-[Flowchart](Docs/Cancels Approved Request/Flowchart.png)
+[Flowchart](Docs/Cancels%20Approved%20Request/Flowchart.png)
