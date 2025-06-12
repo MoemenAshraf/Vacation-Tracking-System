@@ -52,3 +52,16 @@ policies.
 - System Admin
 
 
+## Entity Relationship Diagram (ERD)
+[ERD](Docs/ERD/ERD.png)
+
+
+## Submits Vacation Request
+[Flowchart](Docs/Submits Vacation Request/Flowchart.png)  
+[Sequence Diagram](Docs/Submits Vacation Request/Sequence.png)
+
+## Edit or withdraw Pending Request
+[Flowchart](Docs/Edit or withdraw Pending Request/Flowchart.png)
+
+## Cancel Approved Request
+[Flowchart](Docs/Cancels Approved Request/Flowchart.png)
